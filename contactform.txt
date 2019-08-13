@@ -1,0 +1,29 @@
+ <form id="contactForm" action="#" method="post" role="form">
+                  <div class="col-md-12">
+                    <div class="form-group">
+                      <input id="formName" type="text" class="input required" name="name" placeholder="Your name">
+                    </div>
+                  </div>
+                  <div class="col-md-12">
+                    <div class="form-group">
+                      <input id="formEmail" type="email" class="input required" name="email" placeholder="Email address">
+                    </div>
+                  </div>
+                  <div class="col-md-12">
+                    <div class="form-group">
+                      <input id="phone" type="text" placeholder="Phone" value="" size="30" name="phone">
+                    </div>
+                  </div>
+                  <div class="col-md-12">
+                    <div class="form-group">
+                      <input id="web" type="text" placeholder="Website" value="" size="30" name="Website">
+                    </div>
+                  </div>
+                  <div class="col-xs-12">
+                    <div class="form-group">
+                      <textarea id="message" class="textarea required" name="message" rows="5" cols="40" placeholder="Your question"></textarea>
+                    </div>
+                    <button value="Submit" id="submit" class="btn btn-green-border btn-lg" type="submit">SEND &gt;</button>
+                  </div>
+                </form>
+                <div class="successMsg"></div>

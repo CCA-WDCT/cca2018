@@ -1,0 +1,389 @@
+ <!--======= TEAM MEMBER 1 =========-->
+          <div class="col-md-6 wow flipInX" data-wow-duration="1s" data-wow-delay="0.4s">
+            <div class="team"> 
+              
+              <!--======= HOVER DETAIL =========-->
+              <div class="t-img">
+                <div class="rotate">
+                  <div class="rotate-none"> <img src="images/team-4.jpg" alt="" > </div>
+                </div>
+              </div>
+              <div class="team-info">
+                <h5>MD. ATIF HASAN</h5>
+                <p><span>EXECUTIVE FEST COORDINATOR</span></p>
+                <p>Praesent hendrerit, lacus  condu mentum scelerisque augue midl ultrices nunc.</p>
+                <!--======= HOVER SOCIAL ICON =========-->
+                <div class="social_icons">
+                  <ul>
+                    <li class="facebook"> <a href="#."><i class="fa fa-facebook"></i> </a> </li>
+                    <li class="twitter"> <a href="#."><i class="fa fa-twitter"></i> </a> </li>
+                    <li class="googleplus"> <a href="#."><i class="fa fa-google"></i> </a> </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+		  <!--======= TEAM MEMBER 1 =========-->
+          <div class="col-md-6 wow flipInX" data-wow-duration="1s" data-wow-delay="0.4s">
+            <div class="team"> 
+              
+              <!--======= HOVER DETAIL =========-->
+              <div class="t-img">
+                <div class="rotate">
+                  <div class="rotate-none"> <img src="images/team-4.jpg" alt="" > </div>
+                </div>
+              </div>
+              <div class="team-info">
+                <h5>B. GANGEYA</h5>
+                <p><span>EXECUTIVE FEST COORDINATOR</span></p>
+                <p>Praesent hendrerit, lacus  condu mentum scelerisque augue midl ultrices nunc.</p>
+                <!--======= HOVER SOCIAL ICON =========-->
+                <div class="social_icons">
+                  <ul>
+                    <li class="facebook"> <a href="#."><i class="fa fa-facebook"></i> </a> </li>
+                    <li class="twitter"> <a href="#."><i class="fa fa-twitter"></i> </a> </li>
+                    <li class="googleplus"> <a href="#."><i class="fa fa-google"></i> </a> </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+		  <!--======= TEAM MEMBER 1 =========-->
+          <div class="col-md-6 wow flipInX" data-wow-duration="1s" data-wow-delay="0.4s">
+            <div class="team"> 
+              
+              <!--======= HOVER DETAIL =========-->
+              <div class="t-img">
+                <div class="rotate">
+                  <div class="rotate-none"> <img src="images/team-4.jpg" alt="" > </div>
+                </div>
+              </div>
+              <div class="team-info">
+                <h5>ADITYA DHINGRA</h5>
+                <p><span>HEAD CORPORATE AFFAIRS</span></p>
+                <p>Praesent hendrerit, lacus  condu mentum scelerisque augue midl ultrices nunc.</p>
+                <!--======= HOVER SOCIAL ICON =========-->
+                <div class="social_icons">
+                  <ul>
+                    <li class="facebook"> <a href="#."><i class="fa fa-facebook"></i> </a> </li>
+                    <li class="twitter"> <a href="#."><i class="fa fa-twitter"></i> </a> </li>
+                    <li class="googleplus"> <a href="#."><i class="fa fa-google"></i> </a> </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+		  <!--======= TEAM MEMBER 1 =========-->
+          <div class="col-md-6 wow flipInX" data-wow-duration="1s" data-wow-delay="0.4s">
+            <div class="team"> 
+              
+              <!--======= HOVER DETAIL =========-->
+              <div class="t-img">
+                <div class="rotate">
+                  <div class="rotate-none"> <img src="images/team-4.jpg" alt="" > </div>
+                </div>
+              </div>
+              <div class="team-info">
+                <h5>YASH MUNDHRA</h5>
+                <p><span>HEAD CORPORATE AFFAIRS</span></p>
+                <p>Praesent hendrerit, lacus  condu mentum scelerisque augue midl ultrices nunc.</p>
+                <!--======= HOVER SOCIAL ICON =========-->
+                <div class="social_icons">
+                  <ul>
+                    <li class="facebook"> <a href="#."><i class="fa fa-facebook"></i> </a> </li>
+                    <li class="twitter"> <a href="#."><i class="fa fa-twitter"></i> </a> </li>
+                    <li class="googleplus"> <a href="#."><i class="fa fa-google"></i> </a> </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+		  <!--======= TEAM MEMBER 1 =========-->
+          <div class="col-md-6 wow flipInX" data-wow-duration="1s" data-wow-delay="0.4s">
+            <div class="team"> 
+              
+              <!--======= HOVER DETAIL =========-->
+              <div class="t-img">
+                <div class="rotate">
+                  <div class="rotate-none"> <img src="images/team-4.jpg" alt="" > </div>
+                </div>
+              </div>
+              <div class="team-info">
+                <h5>SAURABH DASH</h5>
+                <p><span>PUBLICITY COORDINATOR</span></p>
+                <p>Praesent hendrerit, lacus  condu mentum scelerisque augue midl ultrices nunc.</p>
+                <!--======= HOVER SOCIAL ICON =========-->
+                <div class="social_icons">
+                  <ul>
+                    <li class="facebook"> <a href="#."><i class="fa fa-facebook"></i> </a> </li>
+                    <li class="twitter"> <a href="#."><i class="fa fa-twitter"></i> </a> </li>
+                    <li class="googleplus"> <a href="#."><i class="fa fa-google"></i> </a> </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+		  <!--======= TEAM MEMBER 1 =========-->
+          <div class="col-md-6 wow flipInX" data-wow-duration="1s" data-wow-delay="0.4s">
+            <div class="team"> 
+              
+              <!--======= HOVER DETAIL =========-->
+              <div class="t-img">
+                <div class="rotate">
+                  <div class="rotate-none"> <img src="images/team-4.jpg" alt="" > </div>
+                </div>
+              </div>
+              <div class="team-info">
+                <h5>KUNDAN GOPE</h5>
+                <p><span>PUBLICITY COORDINATOR</span></p>
+                <p>Praesent hendrerit, lacus  condu mentum scelerisque augue midl ultrices nunc.</p>
+                <!--======= HOVER SOCIAL ICON =========-->
+                <div class="social_icons">
+                  <ul>
+                    <li class="facebook"> <a href="#."><i class="fa fa-facebook"></i> </a> </li>
+                    <li class="twitter"> <a href="#."><i class="fa fa-twitter"></i> </a> </li>
+                    <li class="googleplus"> <a href="#."><i class="fa fa-google"></i> </a> </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+		  <!--======= TEAM MEMBER 1 =========-->
+          <div class="col-md-6 wow flipInX" data-wow-duration="1s" data-wow-delay="0.4s">
+            <div class="team"> 
+              
+              <!--======= HOVER DETAIL =========-->
+              <div class="t-img">
+                <div class="rotate">
+                  <div class="rotate-none"> <img src="images/team-4.jpg" alt="" > </div>
+                </div>
+              </div>
+              <div class="team-info">
+                <h5>RISHABH RISHI KUMAR</h5>
+                <p><span>HEAD ACCO, TRAVEL AND HOSPITALITY</span></p>
+                <p>Praesent hendrerit, lacus  condu mentum scelerisque augue midl ultrices nunc.</p>
+                <!--======= HOVER SOCIAL ICON =========-->
+                <div class="social_icons">
+                  <ul>
+                    <li class="facebook"> <a href="#."><i class="fa fa-facebook"></i> </a> </li>
+                    <li class="twitter"> <a href="#."><i class="fa fa-twitter"></i> </a> </li>
+                    <li class="googleplus"> <a href="#."><i class="fa fa-google"></i> </a> </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+		  <!--======= TEAM MEMBER 1 =========-->
+          <div class="col-md-6 wow flipInX" data-wow-duration="1s" data-wow-delay="0.4s">
+            <div class="team"> 
+              
+              <!--======= HOVER DETAIL =========-->
+              <div class="t-img">
+                <div class="rotate">
+                  <div class="rotate-none"> <img src="images/team-4.jpg" alt="" > </div>
+                </div>
+              </div>
+              <div class="team-info">
+                <h5>PRASHANT SINGH</h5>
+                <p><span>HEAD ACCO, TRAVEL AND HOSPITALITY</span></p>
+                <p>Praesent hendrerit, lacus  condu mentum scelerisque augue midl ultrices nunc.</p>
+                <!--======= HOVER SOCIAL ICON =========-->
+                <div class="social_icons">
+                  <ul>
+                    <li class="facebook"> <a href="#."><i class="fa fa-facebook"></i> </a> </li>
+                    <li class="twitter"> <a href="#."><i class="fa fa-twitter"></i> </a> </li>
+                    <li class="googleplus"> <a href="#."><i class="fa fa-google"></i> </a> </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+		  <!--======= TEAM MEMBER 1 =========-->
+          <div class="col-md-6 wow flipInX" data-wow-duration="1s" data-wow-delay="0.4s">
+            <div class="team"> 
+              
+              <!--======= HOVER DETAIL =========-->
+              <div class="t-img">
+                <div class="rotate">
+                  <div class="rotate-none"> <img src="images/team-4.jpg" alt="" > </div>
+                </div>
+              </div>
+              <div class="team-info">
+                <h5>NILADRI SHEKHAR DUTTA</h5>
+                <p><span>HEAD IT CELL</span></p>
+                <p>Praesent hendrerit, lacus  condu mentum scelerisque augue midl ultrices nunc.</p>
+                <!--======= HOVER SOCIAL ICON =========-->
+                <div class="social_icons">
+                  <ul>
+                    <li class="facebook"> <a href="#."><i class="fa fa-facebook"></i> </a> </li>
+                    <li class="twitter"> <a href="#."><i class="fa fa-twitter"></i> </a> </li>
+                    <li class="googleplus"> <a href="#."><i class="fa fa-google"></i> </a> </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+		  <!--======= TEAM MEMBER 1 =========-->
+          <div class="col-md-6 wow flipInX" data-wow-duration="1s" data-wow-delay="0.4s">
+            <div class="team"> 
+              
+              <!--======= HOVER DETAIL =========-->
+              <div class="t-img">
+                <div class="rotate">
+                  <div class="rotate-none"> <img src="images/team-4.jpg" alt="" > </div>
+                </div>
+              </div>
+              <div class="team-info">
+                <h5>SWARAJ DEOGHARIA</h5>
+                <p><span>HEAD ENTREPRENEURSHIP CELL</span></p>
+                <p>Praesent hendrerit, lacus  condu mentum scelerisque augue midl ultrices nunc.</p>
+                <!--======= HOVER SOCIAL ICON =========-->
+                <div class="social_icons">
+                  <ul>
+                    <li class="facebook"> <a href="#."><i class="fa fa-facebook"></i> </a> </li>
+                    <li class="twitter"> <a href="#."><i class="fa fa-twitter"></i> </a> </li>
+                    <li class="googleplus"> <a href="#."><i class="fa fa-google"></i> </a> </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+
+		  <!--======= TEAM MEMBER 1 =========-->
+          <div class="col-md-6 wow flipInX" data-wow-duration="1s" data-wow-delay="0.4s">
+            <div class="team"> 
+              
+              <!--======= HOVER DETAIL =========-->
+              <div class="t-img">
+                <div class="rotate">
+                  <div class="rotate-none"> <img src="images/team-4.jpg" alt="" > </div>
+                </div>
+              </div>
+              <div class="team-info">
+                <h5>POOJA TALAPATRA</h5>
+                <p><span>HEAD ENTREPRENEURSHIP CELL</span></p>
+                <p>Praesent hendrerit, lacus  condu mentum scelerisque augue midl ultrices nunc.</p>
+                <!--======= HOVER SOCIAL ICON =========-->
+                <div class="social_icons">
+                  <ul>
+                    <li class="facebook"> <a href="#."><i class="fa fa-facebook"></i> </a> </li>
+                    <li class="twitter"> <a href="#."><i class="fa fa-twitter"></i> </a> </li>
+                    <li class="googleplus"> <a href="#."><i class="fa fa-google"></i> </a> </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+		  <!--======= TEAM MEMBER 1 =========-->
+          <div class="col-md-6 wow flipInX" data-wow-duration="1s" data-wow-delay="0.4s">
+            <div class="team"> 
+              
+              <!--======= HOVER DETAIL =========-->
+              <div class="t-img">
+                <div class="rotate">
+                  <div class="rotate-none"> <img src="images/team-4.jpg" alt="" > </div>
+                </div>
+              </div>
+              <div class="team-info">
+                <h5>SHASHANK SHEKHAR</h5>
+                <p><span>HEAD ROBO CELL</span></p>
+                <p>Praesent hendrerit, lacus  condu mentum scelerisque augue midl ultrices nunc.</p>
+                <!--======= HOVER SOCIAL ICON =========-->
+                <div class="social_icons">
+                  <ul>
+                    <li class="facebook"> <a href="#."><i class="fa fa-facebook"></i> </a> </li>
+                    <li class="twitter"> <a href="#."><i class="fa fa-twitter"></i> </a> </li>
+                    <li class="googleplus"> <a href="#."><i class="fa fa-google"></i> </a> </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+		  <!--======= TEAM MEMBER 1 =========-->
+          <div class="col-md-6 wow flipInX" data-wow-duration="1s" data-wow-delay="0.4s">
+            <div class="team"> 
+              
+              <!--======= HOVER DETAIL =========-->
+              <div class="t-img">
+                <div class="rotate">
+                  <div class="rotate-none"> <img src="images/team-4.jpg" alt="" > </div>
+                </div>
+              </div>
+              <div class="team-info">
+                <h5>SHAIKH AFRIDI</h5>
+                <p><span>HEAD ROBO CELL</span></p>
+                <p>Praesent hendrerit, lacus  condu mentum scelerisque augue midl ultrices nunc.</p>
+                <!--======= HOVER SOCIAL ICON =========-->
+                <div class="social_icons">
+                  <ul>
+                    <li class="facebook"> <a href="#."><i class="fa fa-facebook"></i> </a> </li>
+                    <li class="twitter"> <a href="#."><i class="fa fa-twitter"></i> </a> </li>
+                    <li class="googleplus"> <a href="#."><i class="fa fa-google"></i> </a> </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+		  <!--======= TEAM MEMBER 1 =========-->
+          <div class="col-md-6 wow flipInX" data-wow-duration="1s" data-wow-delay="0.4s">
+            <div class="team"> 
+              
+              <!--======= HOVER DETAIL =========-->
+              <div class="t-img">
+                <div class="rotate">
+                  <div class="rotate-none"> <img src="images/team-4.jpg" alt="" > </div>
+                </div>
+              </div>
+              <div class="team-info">
+                <h5>PRASHANT SINGH</h5>
+                <p><span>HEAD R&D CELL</span></p>
+                <p>Praesent hendrerit, lacus  condu mentum scelerisque augue midl ultrices nunc.</p>
+                <!--======= HOVER SOCIAL ICON =========-->
+                <div class="social_icons">
+                  <ul>
+                    <li class="facebook"> <a href="#."><i class="fa fa-facebook"></i> </a> </li>
+                    <li class="twitter"> <a href="#."><i class="fa fa-twitter"></i> </a> </li>
+                    <li class="googleplus"> <a href="#."><i class="fa fa-google"></i> </a> </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+		  
+		  <!--======= TEAM MEMBER 1 =========-->
+          <div class="col-md-6 wow flipInX" data-wow-duration="1s" data-wow-delay="0.4s">
+            <div class="team"> 
+              
+              <!--======= HOVER DETAIL =========-->
+              <div class="t-img">
+                <div class="rotate">
+                  <div class="rotate-none"> <img src="images/team-4.jpg" alt="" > </div>
+                </div>
+              </div>
+              <div class="team-info">
+                <h5>ARPITA SAMANTA</h5>
+                <p><span>HEAD R&D CELL</span></p>
+                <p>Praesent hendrerit, lacus  condu mentum scelerisque augue midl ultrices nunc.</p>
+                <!--======= HOVER SOCIAL ICON =========-->
+                <div class="social_icons">
+                  <ul>
+                    <li class="facebook"> <a href="#."><i class="fa fa-facebook"></i> </a> </li>
+                    <li class="twitter"> <a href="#."><i class="fa fa-twitter"></i> </a> </li>
+                    <li class="googleplus"> <a href="#."><i class="fa fa-google"></i> </a> </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
